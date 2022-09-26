@@ -6,3 +6,4 @@ p=a*b
 
 print("sum{0}, product{1}" .format(s,p))
 
+ 
